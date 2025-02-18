@@ -47,12 +47,6 @@ I'm a **Full Stack Developer** experienced in designing, developing, and deployi
 
 ---
 
-### 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kirokhela&theme=radical&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirokhela&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirokhela&layout=compact&theme=radical&hide_border=true)  
-
----
 
 ### 🚀 Latest Projects  
 
